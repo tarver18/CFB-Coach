@@ -16,7 +16,7 @@ Bowling Green,Mike Jinks,2
 Buffalo,Lance Leipold,3
 BYU,Kalani Sitake,2
 California,Justin Wilcox,6
-Central Florida,Josh Heupel,6
+Central Florida,Josh Heupel,10
 Central Michigan,John Bonamego,4
 Cincinnati,Luke Fickell,3
 Clemson,Dabo Swinney,10
@@ -25,10 +25,10 @@ Colorado State,Mike Bobo,5
 Duke,David Cutcliffe,4
 East Carolina,Scottie Montgomery,2
 Eastern Michigan,Chris Creighton,2
-Florida,Dan Mullen,7
-Florida Atl,Lane Kiffin,8
-Florida Intl,Butch Davis,5,
-Florida State,Willie Taggart,8
+Florida,Dan Mullen,9
+Florida Atl,Lane Kiffin,10
+Florida Intl,Butch Davis,10
+Florida State,Willie Taggart,10
 Fresno State,Jeff Tedford,6
 Georgia,Kirby Smart,9
 Georgia Tech,Paul Johnson,3
@@ -49,7 +49,7 @@ LSU,Ed Orgeron,7
 Marshall,Doc Holliday,4
 Maryland,DJ Durkin,4
 Memphis,Mike Norvell,7
-Miami,Mark Richt,8
+Miami,Mark Richt,10
 Miami OH,Chuck Martin,2
 Michigan,Jim Harbaugh,8
 Michigan State,Mark Dantonio,7
